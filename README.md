@@ -51,27 +51,6 @@ Linear Regression and Decision Tree Regression are evaluated using Mean Absolute
 
 Linear Regression produced the stronger overall result, achieving an **R² of 0.728**, with an MAE of approximately **4.15 million** and an RMSE of approximately **14.94 million**. Current trading volume was the dominant predictor of subsequent trading volume in the Decision Tree analysis.
 
-## Repository Structure
-
-```text
-stock-market-analytics-ml/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── notebooks/
-│   ├── 01_constituent_data_analysis.ipynb
-│   ├── 02_nifty50_analysis.ipynb
-│   ├── 03_constituent_volatility_classification.ipynb
-│   └── 04_nifty50_volume_prediction.ipynb
-│
-├── data/
-│   └── README.md
-│
-└── figures/
-    └── README.md
-```
 
 ## Notebooks
 
